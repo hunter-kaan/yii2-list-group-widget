@@ -1,0 +1,21 @@
+{
+    "name": "valiant/yii2-list-group-widget",
+    "description": "Yii2 bootstrap list group widget.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," widget"," bootstrap-list-group"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ValianT",
+            "email": "mr.igor.prokofev@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "valiant\\widgets\\": ""
+        }
+    }
+}
